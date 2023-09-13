@@ -1,0 +1,7 @@
+# Debian patches for policykit-1-gnome
+02-select-default-user.patch
+04-autorestart.patch
+06-authentication-failure-string.patch
+07-use-accountsservice.patch
+08-fresh-x11-timestamps.patch
+0001-auth-dialog-make-the-label-wrap-at-70-chars.patch
